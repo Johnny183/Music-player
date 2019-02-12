@@ -1,0 +1,13 @@
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Release\Music_Player.FooterSoundBar.resources
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Release\Music_Player.Home.resources
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Release\Music_Player.Properties.Resources.resources
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Release\Music Player.csproj.GenerateResource.cache
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Release\Music Player.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Release\Music Player.exe.config
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Release\Music Player.exe
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Release\Music Player.pdb
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Release\NAudio.dll
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Release\NAudio.xml
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Release\Music Player.csproj.CopyComplete
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Release\Music Player.exe
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Release\Music Player.pdb

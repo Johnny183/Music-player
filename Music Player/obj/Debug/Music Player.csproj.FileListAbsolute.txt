@@ -1,0 +1,41 @@
+\\bedcoll.local\student\TreshamCollege\512587\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Debug\Music Player.exe.config
+\\bedcoll.local\student\TreshamCollege\512587\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Debug\Music Player.exe
+\\bedcoll.local\student\TreshamCollege\512587\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Debug\Music Player.pdb
+\\bedcoll.local\student\TreshamCollege\512587\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music Player.csprojResolveAssemblyReference.cache
+\\bedcoll.local\student\TreshamCollege\512587\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music_Player.FooterSoundBar.resources
+\\bedcoll.local\student\TreshamCollege\512587\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music_Player.Home.resources
+\\bedcoll.local\student\TreshamCollege\512587\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+\\bedcoll.local\student\TreshamCollege\512587\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music Player.csproj.GenerateResource.Cache
+\\bedcoll.local\student\TreshamCollege\512587\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music Player.exe
+\\bedcoll.local\student\TreshamCollege\512587\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music Player.pdb
+H:\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Debug\Music Player.exe.config
+H:\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music Player.exe
+H:\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music Player.pdb
+H:\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Debug\Music Player.exe
+H:\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Debug\Music Player.pdb
+H:\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music Player.csprojResolveAssemblyReference.cache
+H:\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music_Player.FooterSoundBar.resources
+H:\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music_Player.Home.resources
+H:\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+H:\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music Player.csproj.GenerateResource.Cache
+\\bedcoll.local\student\TreshamCollege\512587\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Debug\NAudio.dll
+\\bedcoll.local\student\TreshamCollege\512587\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Debug\NAudio.xml
+H:\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Debug\NAudio.dll
+H:\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Debug\NAudio.xml
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Debug\Music Player.exe.config
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Debug\Music Player.exe
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Debug\Music Player.pdb
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Debug\NAudio.dll
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Debug\NAudio.xml
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music Player.csprojAssemblyReference.cache
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music_Player.FooterSoundBar.resources
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music_Player.Home.resources
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music Player.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music Player.csproj.CopyComplete
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music Player.exe
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music Player.pdb
+C:\Users\Johnny\OneDrive\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Debug\icon.png
+H:\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\bin\Debug\icon.png
+H:\Documents\Level 3 Computer Science Y2\Unit 16 Object Orientated Programming\OOP Projects\Music Player\obj\Debug\Music_Player.SearchMenu.resources
